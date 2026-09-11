@@ -15,3 +15,4 @@ Assumes:
 - servo wired to pin GP13 w/power to 5v
 
 Calibrate the min/max as needed for your own servo.
+[![Watch the video](https://img.youtube.com/vi/71KmLWKLEjM/hqdefault.jpg)](https://youtu.be/71KmLWKLEjM)
